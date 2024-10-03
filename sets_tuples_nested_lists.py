@@ -196,6 +196,7 @@ budget1 = company["departments"]["HR"]["budget"]
 budget2 = company["departments"]["Engineering"]["budget"]
 total = budget1 + budget2
 print(total) # Output: 170000
+# This is really cool
 
 
 # Define the dictionary
